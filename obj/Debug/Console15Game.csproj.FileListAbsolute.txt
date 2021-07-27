@@ -1,7 +1,0 @@
-C:\Users\moxemus\source\repos\Console15Game\Console15Game\bin\Debug\Console15Game.exe.config
-C:\Users\moxemus\source\repos\Console15Game\Console15Game\bin\Debug\Console15Game.exe
-C:\Users\moxemus\source\repos\Console15Game\Console15Game\bin\Debug\Console15Game.pdb
-C:\Users\moxemus\source\repos\Console15Game\Console15Game\obj\Debug\Console15Game.csprojAssemblyReference.cache
-C:\Users\moxemus\source\repos\Console15Game\Console15Game\obj\Debug\Console15Game.csproj.CoreCompileInputs.cache
-C:\Users\moxemus\source\repos\Console15Game\Console15Game\obj\Debug\Console15Game.exe
-C:\Users\moxemus\source\repos\Console15Game\Console15Game\obj\Debug\Console15Game.pdb
