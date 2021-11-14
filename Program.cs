@@ -23,7 +23,7 @@ class Table
         } while (!Move(Console.ReadKey(true)));
     }
 
-    public void ShowInConsole()
+    private void ShowInConsole()
     {
         Console.Clear();
 
@@ -36,7 +36,7 @@ class Table
             Console.WriteLine();
         }
     }
-    public bool Move(ConsoleKeyInfo key)
+    private bool Move(ConsoleKeyInfo key)
     {
         for (int i = 0; i < map.Length / 3; i++)
             for (int j = 0; j < map.Length / 3; j++)
